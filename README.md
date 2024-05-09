@@ -1,5 +1,6 @@
 
 Frontend Developer from <b>Belarus</b> 
+<br/>
 Current location: <b>Minsk</b>
 
 <br>
